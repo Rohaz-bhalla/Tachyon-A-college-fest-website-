@@ -75,8 +75,9 @@ Add live updates or notifications
 Introduce dark mode
 
 Optimize for accessibility
+ 
+Contributors :- 
 
-Contributors
 Rohaz Bhalla – Project Lead / Developer
 
 Hitaishi Lohtia – UI Designer / Frontend Developer
